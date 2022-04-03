@@ -12,14 +12,20 @@ For instruction, please visit:
 More Practice:
 > [Vue 3 CRUD example with Axios & Vue Router](https://bezkoder.com/vue-3-crud/)
 
+sdfgsdgsdg
 > [Vue 2 CRUD App with Vue Router & Axios](https://bezkoder.com/vue-js-crud-app/)
 
 > [Vue Pagination with Axios and API example](https://bezkoder.com/vue-pagination-axios/)
 
+
+sdgsdgsdg
 > [Vue.js JWT Authentication with Vuex and Vue Router](https://bezkoder.com/jwt-vue-vuex-authentication/)
 
 > [Vue File Upload example using Axios](https://bezkoder.com/vue-axios-file-upload/)
 
+
+
+dfdfgdf
 Fullstack with Node.js Express:
 > [Vue.js + Node.js Express + MySQL](https://bezkoder.com/vue-js-node-js-express-mysql-crud-example/)
 
